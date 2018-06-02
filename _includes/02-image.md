@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Man holding a pigeon on a falconer's glove](https://coyote.imgix.net/214-jean-jullien/jean-jullien-a2-pigeon.jpg?w=300)
